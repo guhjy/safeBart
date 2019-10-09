@@ -4,7 +4,7 @@
 <!-- badges: end -->
 
 The goal of safeBart is to to provide implementations of Bayesian Additive Regression Trees and Bayesian Causal Forest using importance sampling. This can be viewed as an importance sampling approach to BART-BMA (Hernandez et al. 2018). The data-independent sampling from the prior and use of the power likelihood follows the safe-Bayesian Random Forest method described by Quadrianto and Ghahramani (2015).
-
+[safeBART, BCF-BMA, and other BayesianRegression Tree Algorithms](http://www.edge-page.net/jamb2019/bcf_bma_paper2.pdf)
 Hernández, B., Raftery, A. E., Pennington, S. R., & Parnell, A. C. (2018). Bayesian additive regression trees using Bayesian model averaging. Statistics and computing, 28(4), 869-890.
 
 Quadrianto, N., & Ghahramani, Z. (2014). A very simple safe-Bayesian random forest. IEEE transactions on pattern analysis and machine intelligence, 37(6), 1297-1303.
